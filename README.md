@@ -22,3 +22,16 @@ The idea is to replace the sensitive content with 😎.
 ```
 
 ## Output example:
+
+```json
+{
+  "user": {
+    "username": "teste",
+    "cpf": "😎",
+    "password": "😎"
+  },
+  "lat": "😎",
+  "long": "😎",
+  "ip": "123.123.123.123"
+}
+```
